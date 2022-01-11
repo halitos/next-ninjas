@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 
-const Navbar = () => {
+const NavBar = () => {
   return (
     <nav>
       <div className="logo">
@@ -20,4 +20,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default NavBar;
